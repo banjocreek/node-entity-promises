@@ -2,10 +2,10 @@
 
 Promise functions for working with entity models.
 
-## Functions
+### Functions
 
 - createIntroducer: produce a function that augments objects with an id
-- introduce: pre-build introducer with an internal id generator
+- introduce: pre-built introducer with an internal id generator
 - createCleaner: produce a function that removes persistence cruft
 
 
