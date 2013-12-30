@@ -71,6 +71,9 @@ exports.introduce = createIntroducer();
  */
 exports.createCleaner = createCleaner;
 
-
+/*
+ * cleaner for mongo documents
+ */
+exports.moclean = createCleaner("_id");
 
 
