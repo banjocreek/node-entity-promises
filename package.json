@@ -1,0 +1,31 @@
+{
+  "name": "entity-promises",
+  "version": "0.0.2",
+  "description": "Promise functions for working with model entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aztecrex/node-entity-promises.git"
+  },
+  "keywords": [
+    "q",
+    "promise",
+    "model",
+    "entity"
+  ],
+  "author": "Greg Wiley <aztec.rex@jammm.com>",
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {
+    "uuid": "~1.4.1",
+    "underscore": "~1.5.2"
+  }
+}
+
