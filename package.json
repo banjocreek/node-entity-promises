@@ -1,6 +1,6 @@
 {
   "name": "entity-promises",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Promise functions for working with model entities",
   "main": "index.js",
   "scripts": {
